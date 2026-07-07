@@ -28,7 +28,7 @@ p{
     height: 400px;
     width: 500px;
     padding: 20px;
-
+    
 }
 nav{
     border-style: solid;
@@ -36,7 +36,12 @@ nav{
     height: 30px;
     padding: 20px;
     color: antiquewhite;
-}
+    display: flex;
+    
+    
+    align-content: center;
+    justify-content: center;
+    }
 button{
     border-style: solid;
     border-radius: 20px;

@@ -35,4 +35,15 @@ nav{
     border-color: antiquewhite;
     height: 30px;
     padding: 20px;
+    color: antiquewhite;
+}
+button{
+    border-style: solid;
+    border-radius: 20px;
+    padding: 10px;
+    display:flex;
+    justify-self: center;
+    align-self: center;
+    
+    font-size: 20px;
 }

@@ -12,5 +12,16 @@
     background-size: cover;
 }
 .sec1{
+<<<<<<< HEAD
     background: linear-gradient(150deg,orange,white,green);
+=======
+    color: rgb(19, 6, 6);
+}
+.nav{
+    border: 2px;
+    color: antiquewhite;
+    padding: 5px;
+    
+
+>>>>>>> 2e5cd5f07a09b9278a90d5e3e5d1fa7159fcb871
 }

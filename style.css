@@ -1,38 +1,38 @@
 *{
-    padding: 0;
     margin: 0;
+    padding: 0;
 }
-.head{
-    color: rgb(155, 52, 52);
-    /* color: rgb(34, 28, 28); */
-    background-image: url("https://thumbs.dreamstime.com/b/incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.jpg");
-    height: 100vh;
-    /* width: 100vw; */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: aqua;
-     
-    background-size: cover;
-}
+
+
 .sec1{
-
-    background: linear-gradient(150deg,orange,white,green);
-
-    color: rgb(19, 6, 6);
+    background-image: url("sunset.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    width:100vw;
 }
-.container{
-    background-color: antiquewhite;
-    height: 100px;
-    font-weight: 100px;
-    width: 100vw;
-}
-nav{
-    background-color: rgb(181, 33, 33);
-    height: 100px;
-    font-size: 30px;
-}
-
+h1{
+    color: antiquewhite;
+    border-style: solid; 
+    border-color: rgb(243, 237, 237);
+    padding: 20px;
+    margin: 20px;
     
 
+}
+p{
+    color: beige;
+    width: 300px;
+    font-size: 20px;
+    border-style: solid;
+    height: 400px;
+    width: 500px;
+    padding: 20px;
 
-
+}
+nav{
+    border-style: solid;
+    border-color: antiquewhite;
+    height: 30px;
+    padding: 20px;
+}
